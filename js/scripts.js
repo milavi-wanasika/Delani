@@ -68,7 +68,7 @@ $(document).ready(function() {
     });
     $("form").submit (function(event) {
          var name=$("#name").val();
-         alert("Thankyou" + name + "for getting back to us!");
+         alert("Thank you " + name + " for getting back to us!");
     });
 });
     
