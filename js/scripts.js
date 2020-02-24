@@ -13,25 +13,25 @@ $(document).ready(function() {
     });
     $(".img4").hover(function() {
        $(".overlay4").show();
-       $(".img4").mouseleave(function() {
+       $(".image4").mouseleave(function() {
          $(".overlay4").hide();
        });
     });
     $(".img1").hover(function() {
        $(".overlay1").show();
-       $(".img1").mouseleave(function() {
+       $(".image1").mouseleave(function() {
          $(".overlay1").hide();
        });
     });
     $(".img2").hover(function() {
        $(".overlay2").show();
-       $(".img2").mouseleave(function() {
+       $(".image2").mouseleave(function() {
          $(".overlay2").hide();
        });
     });
     $(".img3").hover(function() {
        $(".overlay3").show();
-       $(".img3").mouseleave(function() {
+       $(".image3").mouseleave(function() {
          $(".overlay3").hide();
        });
     });
@@ -39,25 +39,25 @@ $(document).ready(function() {
     $(".img5").hover(function() {
     
        $(".overlay5").show();
-       $(".img5").mouseleave(function() {
+       $(".image5").mouseleave(function() {
          $(".overlay5").hide();
        });
     });
     $(".img6").hover(function() {
        $(".overlay6").show();
-       $(".img6").mouseleave(function() {
+       $(".image6").mouseleave(function() {
          $(".overlay6").hide();
        });
     });
     $(".img7").hover(function() {
        $(".overlay7").show();
-       $(".img7").mouseleave(function() {
+       $(".image7").mouseleave(function() {
          $(".overlay7").hide();
        });
     });
     $(".img8").hover(function() {
        $(".overlay8").show();
-       $(".img8").mouseleave(function() {
+       $(".image8").mouseleave(function() {
          $(".overlay8").hide();
        });
     });
